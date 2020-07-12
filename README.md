@@ -1,2 +1,2 @@
 # LetsUpgrade-AI-ML
-Assignments  Solutions  for ML Course
+Assignments with  Solutions  for ML Course
